@@ -1,0 +1,16 @@
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.exe.config
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.exe.manifest
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.application
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.exe
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.pdb
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\bin\Debug\Tron_etc.xml
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.vbproj.AssemblyReference.cache
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.Resources.resources
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.vbproj.GenerateResource.cache
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.vbproj.CoreCompileInputs.cache
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.TrustInfo.xml
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.exe.manifest
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.application
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.exe
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.xml
+C:\Users\ckennett\source\repos\Tron_etc\Tron_etc\obj\Debug\Tron_etc.pdb
